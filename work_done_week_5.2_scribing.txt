@@ -11,3 +11,4 @@ Kjetil Vaagen:
 Cal maruyama:
 	first bootstrapping page: section right after "Interpreting the Bootstrap Values" until the end of the first page
 
+the work was split up in fourths. each person did half of one bootstrapping page.
