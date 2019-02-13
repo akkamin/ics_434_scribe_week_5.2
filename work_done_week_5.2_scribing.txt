@@ -1,0 +1,13 @@
+aidan akamine: 
+	second bootstrapping page: from beginning to and including "Running the simulation backwards" (after the first set of references are were Christopher's work begins)
+
+Christopher Kang: 
+	second bootstrapping page: from Bayesian Inference Using rejection sampling until the end of the second page
+
+
+Kjetil Vaagen: 
+	first bootstrapping page: from beginning to and including "Interpreting the Bootstrap Values"
+
+Cal maruyama:
+	first bootstrapping page: section right after "Interpreting the Bootstrap Values" until the end of the first page
+
